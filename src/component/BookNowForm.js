@@ -13,7 +13,7 @@ const BookNowForm = () => {
   });
   const inputHandler = (e) => {
     e.preventDefault();
-    //   fname, lname, email, contact, gender, destination, city, person;
+
     const { name, value } = e.target;
     setUser({ ...user, [name]: value });
   };
@@ -245,7 +245,7 @@ const BookNowForm = () => {
                       <small>EXAMPLECODE</small>
                     </div>
                     <span class="text-success d-flex align-items-center">
-                      −{' '}
+                      −
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="16"
