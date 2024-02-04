@@ -204,7 +204,7 @@ const BookNowForm = () => {
                 <ul class="list-group mb-3">
                   <li class="list-group-item d-flex justify-content-between align-items-center py-3 lh-sm">
                     <div>
-                      <h6 class="">{user.city ? user.city : 'City Name'}</h6>
+                      <h6>{user.city ? user.city : 'City Name'}</h6>
                     </div>
                     <span class="text-muted d-flex align-items-center">
                       <svg
