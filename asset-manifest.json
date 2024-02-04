@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hrk_booking_form_app/static/css/main.9f088a99.css",
-    "main.js": "/hrk_booking_form_app/static/js/main.75b959ce.js",
+    "main.js": "/hrk_booking_form_app/static/js/main.cc0f6369.js",
     "index.html": "/hrk_booking_form_app/index.html",
     "main.9f088a99.css.map": "/hrk_booking_form_app/static/css/main.9f088a99.css.map",
-    "main.75b959ce.js.map": "/hrk_booking_form_app/static/js/main.75b959ce.js.map"
+    "main.cc0f6369.js.map": "/hrk_booking_form_app/static/js/main.cc0f6369.js.map"
   },
   "entrypoints": [
     "static/css/main.9f088a99.css",
-    "static/js/main.75b959ce.js"
+    "static/js/main.cc0f6369.js"
   ]
 }
